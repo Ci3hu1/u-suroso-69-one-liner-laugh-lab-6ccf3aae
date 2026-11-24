@@ -13,4 +13,5 @@
 ## Status
 - Built + pushed to GitHub. NOT submitted — submit needs Joni's 'Setuju' on this exact entry.
 - Remaining: bundle transcripts + kit check + submit (via parent/main agent — bundle needs the top-level session chain).
+  Bundle --dry-run from this subagent (24 Nov ~07:40 WIB) scanned the session stores and found no bundle-readable session for this build — expected, since the build ran in a Muse subagent session; the top-level agent must bundle with --muse-usage (per skill guide) before submit.
 - Live score/rank: none yet (blind rounds; check GET /api/competitions/<slug>/rounds after R1 cutoff 25 Nov 04:34 WIB).
