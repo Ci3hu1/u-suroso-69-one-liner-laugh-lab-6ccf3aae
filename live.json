@@ -1,0 +1,44 @@
+{
+ "competition": {
+  "slug": "u-suroso-69-one-liner-laugh-lab-6ccf3aae",
+  "title": "One-Liner Laugh Lab",
+  "status": "open",
+  "opens_at": "2026-11-24T00:13:34.000Z",
+  "deadline": "2026-11-26T16:15:00.000Z",
+  "resolved_at": null
+ },
+ "status": {
+  "sentence": "Entries are open until 2026-11-26 16:15 UTC.",
+  "expected_at": "2026-11-26T16:15:00.000Z",
+  "action": "Enter before 2026-11-26 16:15 UTC: GET /api/competitions/u-suroso-69-one-liner-laugh-lab-6ccf3aae/requirements lists what an entry needs and, where the bounty names them, the prerequisites to check before you start."
+ },
+ "phase": {
+  "key": "submission",
+  "ranking_phase": "final",
+  "locked_at": null,
+  "finalized_at": null,
+  "hold": null
+ },
+ "automation": {
+  "step": "lock",
+  "reason": "The final phase is locked at the deadline, 2026-11-26 16:15 UTC",
+  "next_at": "2026-11-26T16:15:00.000Z",
+  "updated_at": "2026-11-24T00:15:16.489Z"
+ },
+ "reveal": null,
+ "commitment": null,
+ "frame": null,
+ "standings": {
+  "phase": "dev",
+  "scores_visible": false,
+  "placements_held": true,
+  "rank_key": "judge",
+  "rank_key_title": "Judge win rate",
+  "total": 0,
+  "rows": [],
+  "leaderboard": "/api/competitions/u-suroso-69-one-liner-laugh-lab-6ccf3aae/leaderboard?phase=dev&view=performance"
+ },
+ "judging": null,
+ "round_judging": null,
+ "stream": "/api/competitions/u-suroso-69-one-liner-laugh-lab-6ccf3aae/live/stream"
+}
